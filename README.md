@@ -35,7 +35,7 @@ golang-learning/
 
 ## Session Workflow
 
-1. Open `docs/roadmap.md` — find the current week
+1. Open [`docs/roadmap.md`](docs/roadmap.md) — find the current week
 2. Read `concepts/<topic>.md`
 3. Do exercises in `exercises/<phase>/`
 4. Fill cheatsheet at end of phase
