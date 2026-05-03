@@ -1,34 +1,33 @@
 # Next Session
 
 ## Current Phase & Week
-**Phase 1 — Foundations · Week 1 · Day 1**
+**Phase 3 — Concurrency · Week 5 · Day 1**
 
 ---
 
 ## What to Do
 
-### 1. Verify Setup (15 min)
-- [ ] Run `go version` — confirm 1.22+
-- [ ] Open VS Code, confirm `gopls` is active (syntax highlighting + hover docs work)
-- [ ] Run `go doc fmt.Println` in terminal — confirms Go toolchain is working
-- [ ] Run a hello world:
-  ```bash
-  cd exercises/01-basics
-  go run hello.go   # after creating it
-  ```
+### 1. Read (30–45 min)
+- [ ] `concepts/goroutines-channels.md` — goroutines, the `go` keyword, scheduling model
 
-### 2. Read (30–45 min)
-- [ ] `concepts/syntax-basics.md` — Variables section
+### 2. Code (30–60 min)
+- [ ] `exercises/04-concurrency/` — Part 1: Goroutines
 
-### 3. Code (30–60 min)
-- [ ] `exercises/01-basics/` — Part 1: Variables & Types
-
-### 4. Wrap-up (5 min)
+### 3. Wrap-up (5 min)
 - [ ] Update this file: change Day 1 → Day 2, update what to do next
 - [ ] Add anything confusing to `docs/gaps.md`
 
 ---
 
+## Phase 2 Recap (completed)
+- ✅ Concept files: `structs-methods.md`, `interfaces.md`, `pointers.md`, `generics.md`, `error-handling.md`
+- ✅ Exercises: `03-interfaces/` — 6 parts (structs & methods, pointers, interfaces, type assertions, errors, generics)
+- ✅ Cheatsheet: `idioms.md` updated with Phase 2 patterns
+- All exercises compile, pass `go vet`, and produce correct output
+
+---
+
 ## Resources for This Session
-- [A Tour of Go — Basics](https://go.dev/tour/basics/1) — interactive variables & types
-- [Go by Example — Variables](https://gobyexample.com/variables)
+- [Go by Example — Goroutines](https://gobyexample.com/goroutines)
+- [Go by Example — Channels](https://gobyexample.com/channels)
+- [Effective Go — Concurrency](https://go.dev/doc/effective_go#concurrency)
