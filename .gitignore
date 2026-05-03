@@ -1,10 +1,12 @@
-# Go binaries (compiled exercise outputs)
-exercises/01-basics/01-basics
-exercises/02-data-structures/02-data-structures
-exercises/03-interfaces/03-interfaces
-exercises/04-concurrency/04-concurrency
-exercises/05-http/05-http
-exercises/06-testing/06-testing
+# Go binaries (compiled exercise outputs — go build puts them in cwd)
+/01-basics
+/02-data-structures
+/03-interfaces
+/04-concurrency
+/05-http
+/06-testing
+/cli-tool
+/rest-api
 
 # General Go build output
 *.exe
