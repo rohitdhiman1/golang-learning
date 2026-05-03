@@ -185,8 +185,8 @@ Update as phases are completed.
 
 | Phase | Topic Focus | Status |
 |---|---|---|
-| 1 | Foundations — syntax, control flow, functions, slices/maps | Not started |
-| 2 | Type System — structs, interfaces, pointers, generics, errors | Not started |
+| 1 | Foundations — syntax, control flow, functions, slices/maps | ✅ Complete |
+| 2 | Type System — structs, interfaces, pointers, generics, errors | ✅ Complete |
 | 3 | Concurrency — goroutines, channels, sync, patterns | Not started |
 | 4 | Standard Library — I/O, HTTP, JSON, testing, context | Not started |
 | 5 | Production — project structure, databases, CLI, REST API | Not started |
