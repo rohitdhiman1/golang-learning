@@ -10,7 +10,7 @@ Each session: **Read concept file → Do exercises → Update cheatsheet → Log
 
 | Day | Topic | Concept File | Exercises |
 |---|---|---|---|
-| 1 | Setup & Tooling | — (use this roadmap) | Install Go, VS Code + gopls, run `go tour` |
+| 1 | Setup & Tooling | [`docs/go-compilation-pipeline.md`](go-compilation-pipeline.md) | Install Go, VS Code + gopls, run `go tour` |
 | 2 | Syntax Basics | `concepts/syntax-basics.md` | `exercises/01-basics/` — Part 1: Variables |
 | 3 | Control Flow | `concepts/syntax-basics.md` (control flow section) | `exercises/01-basics/` — Part 2: Control Flow |
 | 4 | Functions | `concepts/functions.md` | `exercises/01-basics/` — Part 3: Functions |
@@ -129,6 +129,6 @@ Each session: **Read concept file → Do exercises → Update cheatsheet → Log
 
 ## Current Position
 
-> **Start here →** Phase 1, Week 1, Day 1
+> **Current →** Phase 2 complete. Next: Phase 3, Week 5, Day 1
 >
 > See `docs/next-session.md` for the immediate next task.
