@@ -129,6 +129,6 @@ Each session: **Read concept file → Do exercises → Update cheatsheet → Log
 
 ## Current Position
 
-> **Current →** Phase 2 complete. Next: Phase 3, Week 5, Day 1
+> **Current →** Phase 3 complete. Next: Phase 4, Week 7, Day 1
 >
 > See [`next-session.md`](next-session.md) for the immediate next task.
