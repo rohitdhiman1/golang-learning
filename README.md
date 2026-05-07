@@ -14,7 +14,7 @@ Personal Go study repository — targeting job-ready, production-quality Go code
 |---|---|---|
 | 1 | Foundations — syntax, control flow, functions, slices/maps | ✅ Complete |
 | 2 | Type System — structs, interfaces, pointers, generics, errors | ✅ Complete |
-| 3 | Concurrency — goroutines, channels, sync, patterns | ⬜ Not started |
+| 3 | Concurrency — goroutines, channels, sync, patterns | ✅ Complete |
 | 4 | Standard Library — I/O, HTTP, JSON, testing, context | ⬜ Not started |
 | 5 | Production — project structure, databases, CLI, REST API | ⬜ Not started |
 | 6 | Advanced & Interview — performance, internals, interview questions | ⬜ Not started |
